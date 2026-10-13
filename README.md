@@ -70,7 +70,7 @@ flowchart LR
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/DualSparkStudio/ai-web-scraper.git
+git clone https://github.com/yashk230/ai-web-scraper.git
 cd ai-web-scraper
 ```
 
